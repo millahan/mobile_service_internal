@@ -259,7 +259,7 @@ class MobileService:
             cost += virus_fee
 
         self.job_info = f"""Job Number: {job_number}
-Customer: {name}
+Customer: {customer_name}
 Total Service Cost: ${cost:.2f}
 """
         self.jobs_list.append(self.job_info)
