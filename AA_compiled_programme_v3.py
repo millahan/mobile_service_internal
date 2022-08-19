@@ -184,7 +184,7 @@ class MobileService:
             distance = float(distance)
             d_error = "no"
 
-            if distance <= 0 or distance >= 100:
+            if distance <= 0 or distance > 100:
                 d_error = "yes"
                 error_feedback = "Please enter a distance between 0 and 100km)."
                 self.distance_entry.config(bg=error_back)
