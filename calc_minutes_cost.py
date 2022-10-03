@@ -1,3 +1,7 @@
+#Hannah Millward
+#August 2022
+#Calculate charge based on minutes travlled
+
 cost = 0
 
 wof = input("Was WOF required? (y or n): ")

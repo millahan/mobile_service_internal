@@ -1,4 +1,8 @@
 #Hannah Millward
+#August 2022
+#Enter job information framework
+#Trial 1: WOF and virus input through entry boxes
+
 from tkinter import *
 from functools import partial  # To prevent unwanted windows
 from PIL import ImageTk, Image  # To present logo

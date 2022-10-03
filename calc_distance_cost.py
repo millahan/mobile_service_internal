@@ -1,3 +1,7 @@
+#Hannah Millward
+#August 2022
+#Calculate charge based on distance travelled
+
 import math
 
 cost = 10

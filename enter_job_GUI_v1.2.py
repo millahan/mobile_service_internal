@@ -1,3 +1,8 @@
+#Hannah Millward
+#August 2022
+#Trial 1: Get WOf and virus entry through checkboxes and entry box
+#Trial 2: Show errors under respective entry boxes
+
 from tkinter import *
 from functools import partial  # To prevent unwanted windows
 from PIL import ImageTk, Image  # To present logo

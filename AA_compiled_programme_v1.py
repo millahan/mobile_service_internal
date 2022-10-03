@@ -1,3 +1,7 @@
+#Hannah Millward
+#August 2022
+#Full component integration
+
 from tkinter import *
 from functools import partial  # To prevent unwanted windows
 
