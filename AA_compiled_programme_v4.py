@@ -14,10 +14,6 @@ class MobileService:
     
     def __init__(self, parent):
 
- """
-    A function to display the root window.
-    """
-        
         # Formatting Variables
         background_colour = "#caf0f8"
 
